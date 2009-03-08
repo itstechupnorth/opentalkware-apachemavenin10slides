@@ -44,3 +44,16 @@ html>body #toggle {position: fixed; top: 0; right: 0;}
 .slide h1 {margin: 1.5em 0 0; padding-top: 0.25em;
   border-top: 1px solid #888; border-bottom: 1px solid #AAA;}
 #toggle {border: 1px solid; border-width: 0 0 1px 1px; background: #FFF;}
+
+
+/* 
+  For open presentations, the outline view is essential. It acts as a handout to 
+  accompany the talk, allows new presentors to understand the talk and allows
+  readers who are not to attend live to learn.
+  
+  Improve readability of outline by indicating types of content.
+ */
+div.notes  {border: 1px solid; border-width: 1px  1px  1px 1px; background: #DDD;
+   font-family: monospace; font-size:smaller;}
+div.handout {border: 1px solid; border-width: 1px  1px  1px 1px; background: #EEE; padding: 1em; }
+
