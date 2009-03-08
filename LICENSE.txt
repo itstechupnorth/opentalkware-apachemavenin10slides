@@ -1,17 +1,49 @@
-What are the licensing terms, and how do they affect the content of a slide show 
+Copyright (c) 2009, Contributors To OpenTalkWare http://www.opentalkware.org
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, 
+are permitted provided that the following conditions are met:
+
+    * Redistributions of source code must retain the above copyright notice, 
+      this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright notice, 
+      this list of conditions and the following disclaimer in the documentation 
+      and/or other materials provided with the distribution.
+    * Neither the name of the OpenTalkWare nor the names of its contributors may
+      be used to endorse or promote products derived from this software without
+      specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED 
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, 
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, 
+BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, 
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF 
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+
+
+This software is derived from S5 (http://meyerweb.com/eric/tools/s5/). S5 is 
+public domain:
+
+ What are the licensing terms, and how do they affect the content of a slide show 
    done in S5?
 
    First, whatever license S5 has or did have, it will only ever apply to the 
-technology, not the content. You can prepare a confidential presentation where 
-the content is not only copyrighted and patented, but Top Secret as well. S5's 
-license will not affect it.
+ technology, not the content. You can prepare a confidential presentation where 
+ the content is not only copyrighted and patented, but Top Secret as well. S5's 
+ license will not affect it.
 
    As of version 1.1, the technology itself has been explicitly released into the
-Public Domain, so there are no restrictions whatsoever on its use or reuse (nor
-can there ever be). S5 v1.0 was published under a Creative Commons 
-Attribution-ShareAlike 2.0 license, which still holds for that version of the 
-software. The change was made because I found out CC licenses aren't appropriate
-for software only after 1.0 came out. Oops.
+ Public Domain, so there are no restrictions whatsoever on its use or reuse (nor
+ can there ever be). S5 v1.0 was published under a Creative Commons 
+ Attribution-ShareAlike 2.0 license, which still holds for that version of the 
+ software. The change was made because I found out CC licenses aren't appropriate
+ for software only after 1.0 came out. Oops.
 
 
                            http://meyerweb.com/eric/tools/s5/faq.html, Mar 8 2009
