@@ -1,0 +1,17 @@
+What are the licensing terms, and how do they affect the content of a slide show 
+   done in S5?
+
+   First, whatever license S5 has or did have, it will only ever apply to the 
+technology, not the content. You can prepare a confidential presentation where 
+the content is not only copyrighted and patented, but Top Secret as well. S5's 
+license will not affect it.
+
+   As of version 1.1, the technology itself has been explicitly released into the
+Public Domain, so there are no restrictions whatsoever on its use or reuse (nor
+can there ever be). S5 v1.0 was published under a Creative Commons 
+Attribution-ShareAlike 2.0 license, which still holds for that version of the 
+software. The change was made because I found out CC licenses aren't appropriate
+for software only after 1.0 came out. Oops.
+
+
+                           http://meyerweb.com/eric/tools/s5/faq.html, Mar 8 2009
