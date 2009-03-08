@@ -47,3 +47,6 @@ public domain:
 
 
                            http://meyerweb.com/eric/tools/s5/faq.html, Mar 8 2009
+                           
+ Please see http://www.meyerweb.com/eric/tools/s5/credits.html for information 
+ about all the wonderful and talented contributors to this code!
