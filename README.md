@@ -1,6 +1,6 @@
 # Apache Maven in 10 Slides
 
-An introduction Apache Maven in the form of a HTML slideshow.
+An introduction to Apache Maven in the form of a HTML slideshow.
 
 ## Generating PDFs
 
