@@ -1,10 +1,11 @@
 # Apache Maven in 10 Slides
+# OpenTalkware
 
-Relocated from OpenTalkware at GoogleCode https://code.google.com/archive/p/opentalkware/.
+OpenTalkware was relocated from GoogleCode https://code.google.com/archive/p/opentalkware/.
 
-# OpenTalkWare - The Original Pitch
+## Original Pitch
 
-## Developing Open Talks The Open Source Way
+### Developing Open Talks The Open Source Way
 
 Welcome
 
@@ -16,20 +17,20 @@ Permissive Licensed Talks
 Talks contributed to this project do not require share alike.
 
 Google prefers pure licensing. This means each project chooses licenses for documentation and for code. Permissive BSD CC-BY licenses have been chosen for the source in this repository. A second repository will be used for share alike licensed talks.
-## Get Involved
+### Get Involved
 
 OpenTalkWare is bootstrapping so it's a great time to GetInvolved
-## Improve A Talk
+### Improve A Talk
 
 Create an issue in the tracker. It's often easier to create a patch once you get the hang of it.
-## Change A Talk
+### Change A Talk
 
 Checkout the talk and start remixing!
 
 Change everything except the attributions. These should be clearly marked. If you want to add some attributions of your own, just add more content to these areas, or just create similar sections of your own - just make sure they're clearly marked.
 
 Take a look at Creative Commons for more information about the creative commons licenses and open content. It'll change your world.
-## Create A New Talk
+### Create A New Talk
 
 To develop a talk, install Subversion and
 
